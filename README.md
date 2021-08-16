@@ -1,6 +1,6 @@
 <h1> WELCOME!! </h1>
 
-- > Status: Desenvolvimento ⚠️
+- > Status: Em Desenvolvimento ⚠️
 
 ## DEVELOPING LANGUAGES:
  
