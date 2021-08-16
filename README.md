@@ -1,4 +1,4 @@
-<h1> BE VERY WELCOME!! </h1>
+<h1> WELCOME!! </h1>
 
 - > Status: Desenvolvimento ⚠️
 
