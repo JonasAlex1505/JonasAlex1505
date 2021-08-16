@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @JonasAlex1505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> BE VERY WELCOME!! </h1>
 
-<!---
-JonasAlex1505/JonasAlex1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- > Status: Desenvolvimento ⚠️
+
+## DEVELOPING LANGUAGES:
+ 
+ <a>
+  <img align="center"  height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
+</a>
+
+<a>
+  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
+</a>
+
+<a>
+  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-qidth:100%;">
+</a>
+<a>
+  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="max-qidth:100%;">
+</a>
+
+
+<h2> CONNECT WHIT ME :</h2>
+
+<a href="https://www.linkedin.com/in/jonas-alexander-8a91bb1a3/"  target="_blank">
+  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-qidth:100%;">
+</a>
+
