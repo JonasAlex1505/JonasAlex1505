@@ -15,13 +15,6 @@
 <a>
   <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-qidth:100%;">
 </a>
-<a>
-  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="max-qidth:100%;">
-</a>
-<a>
-  <img align="center" alt="Jonas-linkedin" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="max-qidth:100%;">
-</a>
-
 
 <h2> CONNECT WHIT ME :</h2>
 
