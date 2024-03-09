@@ -1,6 +1,6 @@
 <h1> WELCOME!! </h1>
 
-- > Status: Em Desenvolvimento ⚠️
+- > Status: Studying | ANALISE E DESENVOLVIMENTO DE SISTEMAS | C++, MySQL , LINUX ...⚠️
 
 ## DEVELOPING LANGUAGES:
  
